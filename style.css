@@ -1,8 +1,10 @@
 body {
   background-color: grey;
-  justify: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10 em;
 }
 
 figcaption {
-  font-size: 2 em;
+  font-size: 60 px; 
 }
