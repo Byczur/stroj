@@ -4,8 +4,7 @@ body {
   margin-right: auto;
   width: 10 em;
 }
-
-figcaption {
+.text {
   font-size: 60 px; 
 }
 
